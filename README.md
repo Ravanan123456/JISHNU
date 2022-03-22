@@ -45,7 +45,7 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![JISHNU](<img src=Bot.jpg.jpg>
+  [![JISHNU](<img src=Bot.jpg.jpg>)
  https://github.com/JISHNU |  
 ----|
 [Its_me_JISHNU](https://github.com/JISHNU)  |
