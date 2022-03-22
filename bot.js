@@ -10,7 +10,7 @@ richusir
 /
 RICHUSER_B1
 Public
-forked from richusir/JISHNU
+forked from richusir/RICHUSER_B1
 0
 1121
 Code
@@ -164,7 +164,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please wait.')}`);
         });
 
         console.log(
-            chalk.green.bold('JISHNU' working perfectly 💘')
+            chalk.green.bold('Richuser working perfectly 💘')
         );
     });
     
@@ -276,7 +276,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please wait.')}`);
                                     'Gerçekleşen Hata: ' + error + '\n\n'
                                     , MessageType.text);
                             } else {
-                                await conn.sendMessage(conn.user.jid, 'JISHNUBOT_🐱_[error] ' +
+                                await conn.sendMessage(conn.user.jid, 'RICHUSERBOT_🐱_[error] ' +
                                     '\n\n*👻 ' + error + '*\n'
                                     , MessageType.text);
                             }
@@ -306,13 +306,3 @@ whatsAsena();
 © 2021 GitHub, Inc.
 Terms
 Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-Loading complete
